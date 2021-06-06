@@ -1,0 +1,9 @@
+name: RaiseFree
+main: com.jhooc77.RaiseFree.RaiseFree
+version: 1.0.0
+api-version: 1.13
+author: BabyMandarinDuck
+depend: [AWCore]
+commands:
+   프리키우기:
+     description: default command
